@@ -2,23 +2,11 @@
 
 This solution is using Cypress as automation framework
 
-Quick start commands:
+
 ## Installing
 ```
 $ npm run install
 ```
-
-The project structure is:
-
-   ├── BUG_Reports                              # Bug report as pdf
-   ├── cypress
-        ├── e2e                                 # Tests 
-        └── support                                  
-      ├── .gitignore
-      ├── cypress.json
-      ├── package-lock.json
-      ├── package.json  
-      └── README.md
 
 ## Running of tests
 
