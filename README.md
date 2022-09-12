@@ -9,10 +9,11 @@ $ npm run install
 ```
 
 The project structure is:
-   ├── BUG_Reports                               # Bug report as pdf
+
+   ├── BUG_Reports                              # Bug report as pdf
    ├── cypress
-         ├── e2e                                 # Tests 
-         └── support                                  
+        ├── e2e                                 # Tests 
+        └── support                                  
       ├── .gitignore
       ├── cypress.json
       ├── package-lock.json
