@@ -1,0 +1,14 @@
+{
+  "name": "intexsoft-qa-challenge",
+  "version": "1.0.0",
+  "description": "qa-challenge",
+  "main": "index.js",
+  "scripts": {
+    "tests": "npx cypress run --spec 'cypress/e2e/apiRestCountries.cy.js'"
+  },
+  "author": "s.malaychuk",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0"
+  }
+}
